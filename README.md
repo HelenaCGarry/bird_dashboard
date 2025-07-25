@@ -1,4 +1,4 @@
-### My Merlin Bird ID dashboard
+# My Merlin Bird ID dashboard
 
 ## Data sources
 - [Merlin Bird ID App](https://merlin.allaboutbirds.org/) by the [Cornell Lab of Ornithology](https://www.birds.cornell.edu/home/)
